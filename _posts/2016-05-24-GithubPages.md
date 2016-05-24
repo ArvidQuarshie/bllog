@@ -2,6 +2,6 @@
 layout: post
 title: Github pages
 ---
-*hello
+*hello this is my page
 
-1.this is my page
+
