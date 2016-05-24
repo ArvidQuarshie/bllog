@@ -18,11 +18,11 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:arvidquarshie@gmail.com
+  email: arvidquarshie@gmail.com
   facebook: Arvid Quarshie
   flickr:
-  github:github.com/ArvidQuarshie
-  instagram:Arvid Quarshie
+  github: github.com/ArvidQuarshie
+  instagram: Arvid Quarshie
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
