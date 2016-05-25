@@ -1,0 +1,34 @@
+
+
+Slack is a cloud based on line collaborative tool that is used  while working on projects by a given number of team members.
+
+Slack has the following features such as:
+
+private groups
+private messaging
+searchable content such as conversations , messages, resources,people etc.
+It also has a number of third party inter grated services such as:
+
+drop-box
+git
+google-drive
+trello
+how to set up a slack Account:
+
+visit the slack homepage  https://slack.com
+You have the option of signing up using your gmail address.
+After creating the account slack provides you with an option of adding members to your team.
+
+This is done by sending them an invitation using their email addresses after creating the team (group).
+
+By installing slack this will allow you to be able communicate effectively as you contribute towards the team projects .
+
+Benefits of using Slack:
+
+Organisation
+Better communication
+Reliability
+efficiency
+
+
+Arvid
