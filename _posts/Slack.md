@@ -1,4 +1,7 @@
-
+---
+layout: post
+title: Slack
+---
 
 Slack is a cloud based on line collaborative tool that is used  while working on projects by a given number of team members.
 
